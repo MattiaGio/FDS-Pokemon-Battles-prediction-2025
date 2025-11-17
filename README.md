@@ -49,8 +49,8 @@ In the last days, we focused on refining the "future" model by adding additional
 
 ## 👥 Participants
 
--   Valerio Mesiti\
--   Gabriele Moretti\
+-   Valerio Mesiti\ @ValerioM01 
+-   Gabriele Moretti\ @gabmor01
 -   Mattia Giordano
 
 ------------------------------------------------------------------------
