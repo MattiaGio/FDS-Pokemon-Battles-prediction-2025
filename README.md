@@ -49,8 +49,8 @@ In the last days, we focused on refining the "future" model by adding additional
 
 ## 👥 Participants
 
--   Valerio Mesiti\ [@ValerioM01](https://github.com/ValerioM01)
--   Gabriele Moretti\ [@gabmor01](https://github.com/gabmor01)
+-   Valerio Mesiti [@ValerioM01](https://github.com/ValerioM01)
+-   Gabriele Moretti [@gabmor01](https://github.com/gabmor01)
 -   Mattia Giordano [@MattiaGio](https://github.com/MattiaGio)
 
 ------------------------------------------------------------------------
