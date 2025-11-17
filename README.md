@@ -1,6 +1,9 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Twitter](https://img.shields.io/badge/@CatBoostML--_.svg?style=social&logo=twitter)](https://twitter.com/CatBoostML)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-Gen1%20Predictor-FFD700?style=for-the-badge&logo=pokemon&logoColor=black)
+![CatBoost](https://img.shields.io/badge/CatBoost-Gen1%20Predictor-FF0000?style=for-the-badge&logo=pokemon&logoColor=yellow)
+![Gen 1 Pokémon](https://img.shields.io/badge/Pokémon-Gen%201-9CA3AF?style=for-the-badge&logo=nintendo-game-boy&logoColor=white)
+
 
 # 🎮 FDS-Pokemon-Battles-prediction-2025
 
